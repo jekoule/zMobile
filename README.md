@@ -1,18 +1,18 @@
-# Zulip Mobile
+# Kashta Mobile
 
 [![Build Status](https://travis-ci.org/zulip/zulip-mobile.svg?branch=master)](https://travis-ci.org/zulip/zulip-mobile)
 [![Zulip chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://chat.zulip.org/#narrow/stream/mobile)
 
-Zulip Mobile is the official mobile Zulip client, supporting both iOS
+Kashta Mobile is the official mobile Kashta client, supporting both iOS
 and Android.
 
 
 ## Get the app
 
 Release versions of the app are available here:
-* [Zulip for iOS](https://itunes.apple.com/app/zulip/id1203036395)
+* [Kashta for iOS](https://itunes.apple.com/app/zulip/id1203036395)
   on the iTunes App Store
-* [Zulip for Android](https://play.google.com/store/apps/details?id=com.zulipmobile)
+* [Kashta for Android](https://play.google.com/store/apps/details?id=com.zulipmobile)
   on the Google Play Store
   * Or if you don't use Google Play, you can [download an
     APK](https://github.com/zulip/zulip-mobile/releases/latest)
