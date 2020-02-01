@@ -1,7 +1,7 @@
 {
   "{_}": "{_}",
-  "I have a Zulip account": "I have a Zulip account",
-  "I am new to Zulip": "I am new to Zulip",
+  "I have a Zulip account": "I have a Kashta account",
+  "I am new to Zulip": "I am new to Kashta",
   "Home": "Home",
   "All messages": "All messages",
   "Private messages": "Private messages",
@@ -157,7 +157,7 @@
   "Offline": "Offline",
   "Do not mark messages read on scroll": "Do not mark messages read on scroll",
   "Topics": "Topics",
-  "Welcome to Zulip!\n\nYou'll need to first create an account from your computer. If you're not sure where to start, go to zulipchat.com from your web browser.\n\nHope to see you back here soon!\n": "Welcome to Zulip!\n\nYou'll need to first create an account from your computer. If you're not sure where to start, go to zulipchat.com from your web browser.\n\nHope to see you back here soon!\n",
+  "Welcome to Zulip!\n\nYou'll need to first create an account from your computer. If you're not sure where to start, go to zulipchat.com from your web browser.\n\nHope to see you back here soon!\n": "Welcome to Kashta!\n\nYou'll need to first create an account from your computer. If you're not sure where to start, go to getkashta.com from your web browser.\n\nHope to see you back here soon!\n",
   "Add subscribers": "Add subscribers",
   "Set yourself to away": "Set yourself to away",
   "Clear": "Clear",
